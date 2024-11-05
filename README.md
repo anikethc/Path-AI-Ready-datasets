@@ -170,3 +170,4 @@ The aim of this repository is to centralize information on diverse histopatholog
 | CPM-17 | brain | H&E | [Link](https://drive.google.com/drive/folders/1sJ4nmkif6j4s2FOGj8j6i_Ye7z9w0TfA)<br>[Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC6454006/#_ad93_) | 20x, 40x  | Train: 32, test: 32 | 500x500 to 600x600 | nan | nan | 2019 |
 | CPM-15 | brain | H&E | [Link](https://drive.google.com/drive/folders/11ko-GcDsPpA9GBHuCtl_jNzWQl6qY_-I) | 20x, 40x  | 15 (2905 nuclei) | 400x400, 600x1000 | nan | nan | nan |
 | International Cancer Genome Consortium  Breast Cancer Histology Images | Breast | H&E | [Link](https://ega-archive.org/datasets/EGAD00010001911) | nan | 151 | nan | nan | nan | 2016 |
+| CRC-ICM | Colon, Rectum | IHC, H&E | [Link 1](https://arxiv.org/pdf/2308.10033)<br>[Link 2](https://data.mendeley.com/datasets/h3fhg9zr47/1) | 200x, 20x magnification | 1,756 images | 4140 x 3096<br>2070 x 1548<br>1280 x 960 | nan | 136 | 2023 |
